@@ -10,8 +10,8 @@ Sales data analysis focused on trends, seasonality and customer insights. Data w
   ```bash
   pip install pandas matplotlib
   ```
-  - Place the sales_data.csv file in the project directory.
-  - Run the script.
+- Place the sales_data.csv file in the project directory.
+- Run the script.
   
 
 ## Project Description
